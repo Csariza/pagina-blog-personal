@@ -1,6 +1,7 @@
 .img1{
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     border-radius: 300px;
-    border: black solid 5px;
+    border: black solid 0.3vw;
+    margin-left: 6vw;
 }
